@@ -1,0 +1,12 @@
+body {
+    color: white;
+    font-family: Tahoma;
+    background-image: url(https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/07/charlie-brown-chorao.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+a{
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+}
